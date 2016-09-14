@@ -11,11 +11,12 @@ url: "https://foxaafox.github.io/" # the base hostname & protocol for your site
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 my-img: 'https://od8kqa01w.bkt.clouddn.com/me.JPG'
-
+weibo:  'https://weibo.com/u/2698725032'
+toemail: 'https://mail.qq.com/'
 # Social account
 # twitter:  username
 # weibo:    ID
-# github:   username
+github: FOXaaFOX
 # codepen:  username
 # dribbble: username
 
