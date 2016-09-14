@@ -15,11 +15,13 @@ description: PHP操作Session的原理及提升安全性时的一个问题
 回来之后实现代码如下；
 
 方法1：
+
 ```html
         <div id="left"></div>
         <div id="right"></div>
         <div id="main"></div>
 ```
+
 ```css
         html,body {
             margin:0;
@@ -50,4 +52,4 @@ description: PHP操作Session的原理及提升安全性时的一个问题
             height: 100%;
         }
 ```
-![图]:http://od8kqa01w.bkt.clouddn.com/three.png
+![图](http://od8kqa01w.bkt.clouddn.com/three.png)
