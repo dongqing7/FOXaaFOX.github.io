@@ -10,7 +10,7 @@ url: "https://foxaafox.github.io/" # the base hostname & protocol for your site
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
-my-img: 'http://od8kqa01w.bkt.clouddn.com/me.JPG'
+my-img: 'https://od8kqa01w.bkt.clouddn.com/me.JPG'
 
 # Social account
 # twitter:  username
