@@ -6,6 +6,7 @@ layout: post
 - 手机：15295592312 （12:00-凌晨2:00准时在线）
 - Email：zhangyueaijia@qq.com.com 
 - 微信号：zhangyueaijia
+
 ---
 
 # 个人信息
@@ -45,6 +46,7 @@ layout: post
 - 数据库相关：MySQL/
 - 版本管理、文档和自动化部署工具：Svn/Git
 
+---
 
 # 致谢
 感谢您花时间阅读我的简历，2017硕士毕业，如果您觉得我满足您的招人要求，请按上文联系方式联系我。
