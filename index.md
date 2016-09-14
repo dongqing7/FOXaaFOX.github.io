@@ -15,7 +15,7 @@ layout: post
  - 硕士/南京农业大学 
  - 微博：[@ZYS_________](http://weibo.com/u/2698725032) 
  - 博客：[https://foxaafox.github.io/](https://foxaafox.github.io/)
- - Github：http://github.com/foxaafox 
+ - Github：[https://github.com/foxaafox](https://github.com/foxaafox/) 
  - 期望职位：Web前端
 
 ---
