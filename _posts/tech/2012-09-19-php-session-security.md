@@ -18,6 +18,8 @@ description: PHP操作Session的原理及提升安全性时的一个问题
         <div id="left"></div>
         <div id="right"></div>
         <div id="main"></div>
+```
+```css
         html,body {
             margin:0;
             padding:0;
