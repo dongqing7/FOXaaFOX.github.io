@@ -6,7 +6,7 @@ layout: post
 - 手机：15295592312 （12:00-凌晨2:00准时在线）
 - Email：zhangyueaijia@qq.com.com 
 - 微信号：zhangyueaijia
-![wechat](http://od8kqa01w.bkt.clouddn.com/we-chat.png)
+![wechat](http://od8kqa01w.bkt.clouddn.com/we-chat.png =100x100)
 ---
 
 # 个人信息
