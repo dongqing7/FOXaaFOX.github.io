@@ -42,7 +42,7 @@ layout: post
 - Web开发：HTML/CSS/Javascript/PHP/
 - 前端框架：Bootstrap/jQuery/reactJS/
 - 前端工具：Gulp/SaSS
-- 数据库相关：MySQL/
+- 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
 
 ---
