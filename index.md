@@ -14,18 +14,19 @@ layout: post
  - 张越/男/1993 
  - 硕士/南京农业大学 
  - 微博：[@ZYS_________](http://weibo.com/u/2698725032) 
- - 博客：https://foxaafox.github.io/ 
+ - 博客：[https://foxaafox.github.io/](https://foxaafox.github.io/)
  - Github：http://github.com/foxaafox 
  - 期望职位：Web前端
 
 ---
 
-## 工作经历
+### 工作经历
+
 ### 江苏省情报科技研究所 （ 2016年6月 ~ 2016年9月 ）
-科技文献命名实体抽取 
+科技文献命名实体抽取
 条件随机场，命名实体抽取
 ### 南京东邦软件公司 （ 2015年5月 ~ 2015年8月 ）
-电商平台前台页面，基于jQuery UI 与 Bootstrap
+电商平台前台页面，基于jQuery UI与Bootstrap
 基于ecshop电商系统，负责前端页面样式修改
 ### 导师项目-双语术语检索平台开发 （ 2016年4月 ~ 2016年6月 ）
 专业术语汉英对照
