@@ -6,7 +6,7 @@ layout: post
 - 手机：15295592312 （12:00-凌晨2:00准时在线）
 - Email：zhangyueaijia@qq.com.com 
 - 微信号：zhangyueaijia
-
+![wechat](http://od8kqa01w.bkt.clouddn.com/we-chat.png)
 ---
 
 # 个人信息
@@ -21,8 +21,8 @@ layout: post
 ---
 
 ## 工作经历
-# 江苏省情报科技研究所 （ 2016年6月 ~ 2016年9月 ）
-# 科技文献命名实体抽取 
+江苏省情报科技研究所 （ 2016年6月 ~ 2016年9月 ）
+科技文献命名实体抽取 
 条件随机场，命名实体抽取
 
 # 南京东邦软件公司 （ 2015年5月 ~ 2015年8月 ）
