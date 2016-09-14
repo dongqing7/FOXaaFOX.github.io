@@ -26,12 +26,9 @@
 
   <div id="sidebar-right">
     <div id="search-box">
-      <div id="article-list"  />
-        <span>
-        文章列表
-        </span>
-      </div>
+      <input id="search-input" type="text" placeholder="Search" />
     </div>
+    
     <nav id="toc">
       {% if site.filter == 'category' %}
         {% for post in site.posts %}
