@@ -1,9 +1,9 @@
 ---
 layout: post
-title: PHP操作Session的原理及提升安全性时的一个问题
+title: 三列布局
 category: 技术
 tags: PHP
-description: PHP操作Session的原理及提升安全性时的一个问题
+description: 面试被问到的三列布局
 ---
 
 昨天在烽火面试，被问到一个很基础的布局问题（一个容器下三个div，两边固定中间自适应）
