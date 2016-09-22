@@ -18,14 +18,14 @@ description: 熬夜改论文
 
 
 下图，word中的表上下边框1.5磅
-![word1](http://od8kqa01w.bkt.clouddn.com/word1.png)
+![word1](https://od8kqa01w.bkt.clouddn.com/word1.png)
 
 
 
 然后我按如图步骤改变设置后点确定，word显示是不变的（注意！！！此时是没有动右边预览框的）
-![word2](http://od8kqa01w.bkt.clouddn.com/word2.png)
+![word2](https://od8kqa01w.bkt.clouddn.com/word2.png)
 
 
 
 为了让设置有效，你必须重新设置预览框中的边框格局，注意！不管你以前设置格局没有，都必须要重新设置！
-![word3](http://od8kqa01w.bkt.clouddn.com/word3.png)
+![word3](https://od8kqa01w.bkt.clouddn.com/word3.png)
